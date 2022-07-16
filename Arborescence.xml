@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<arborescence>
+    <fichier name="intro.js"/>
+
+    <directory name="math">
+        <file name="Mathematics and AI.pdf"/>
+        <file name="Linear Algebra.pdf"/>
+        <file name="Probability and Statistics.pdf"/>
+        <file name="Optimization Problem.pdf"/>
+        <file name="AI Mathematics Experiment Guide.pdf"/>
+    </directory>
+    <directory name="python">
+        <file name="02 Python Basic.pdf"/>
+        <file name="03 Python advanced.pdf"/>
+        <file name="04 Third-Party libraries.pdf"/>
+        <file name="05 Python exercise.pdf"/>
+        <directory name="math">
+            <file name="Mathematics and AI.pdf"/>
+            <file name="Linear Algebra.pdf"/>
+            <file name="Probability and Statistics.pdf"/>
+            <file name="Optimization Problem.pdf"/>
+            <file name="AI Mathematics Experiment Guide.pdf"/>
+        </directory>
+        <file name="Python Advanced.pdf"/>
+        <file name="Python Basic.pdf"/>
+        <file name="Python Experiment.pdf"/>
+        <file name="Python Introduction.pdf"/>
+        <file name="Python Third-party Libraries.pdf"/>
+    </directory>
+</arborescence>
